@@ -28,5 +28,5 @@ Esta carpeta contiene tercer punto.
 
 
 
-###**Gracias**
+**Gracias**
 
